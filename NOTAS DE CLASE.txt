@@ -1,0 +1,28 @@
+SINTAXIS GIT:
+
+CONFIGURANDO GIT
+-> git --version (ves la version)
+-> git config --global user.name "Tu nombre" (configurar un nombre de usuario)
+-> git config --global user.email "Tu email" (" " email)
+-> git config user."lo que quieras buscar"(chequear información)
+-> git help config (manual para ayudas de git)
+
+-> clear (limpiar consola)
+
+Debemos iniciar la version en el control de versiones (git):
+En cada proyecto hay que iniciar git
+-> git init
+
+
+¿Como vemos el estado de nuestros archivos, cambios?
+-> git status
+
+¿como se agrega el archivo?
+-> git add "el nombre"
+
+¿Como se puede nombrar a un cambio? (siempre debe llevar nombre 
+para trabajar en equipo, pon el nombre exactamente de lo que tiene)
+-> git commit -m "el comentario"
+
+¿Como ver información de los cambios?
+-> git log
