@@ -26,3 +26,10 @@ para trabajar en equipo, pon el nombre exactamente de lo que tiene)
 
 ¿Como ver información de los cambios?
 -> git log
+
+¿Crear una rama?
+-> git branch "name"
+
+¿como cambiar de branch ?
+-> git checkout "name"
+
