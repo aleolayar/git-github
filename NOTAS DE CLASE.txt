@@ -33,3 +33,9 @@ para trabajar en equipo, pon el nombre exactamente de lo que tiene)
 ¿como cambiar de branch ?
 -> git checkout "name"
 
+¿Como unir dos branchs? 
+-> git merge "nombre del cambio" 
+(siempre se debe hacer desde la branch master)
+Se vuelve a hacer un push para unirlo
+-> git push
+
